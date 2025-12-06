@@ -16,7 +16,7 @@ const Home: React.FC = () => {
           </p>
           <Button
             title="Browse Movies"
-            action={() => router.push("/movies", undefined, { shallow: false })}
+            action={() => router.push("/moves", undefined, { shallow: false })}
           />
   </div>
  </section>
